@@ -1,4 +1,5 @@
 <h1 align="center">Selam 👋, Ben Trojen</h1>
+<h1 align="center">Gerçek Adım, Hakan</h1>
 <h3 align="center">Discord Üzerinde Çalışan Bir Javascript Bot Geliştiricisiyim</h3>
 
 - 🔭 Üzerinde Çalıştığım Proje [West Bots](https://discord.gg/g6jEG6G9Ta)
