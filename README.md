@@ -1,4 +1,4 @@
-<h1 align="center">Selam 👋, Ben Trojen</h>
+<h1 align="center">Selam 👋, Ben Trojen</h1>
 <h2 align="center">Gerçek Adım, Hakan</h2>
 <h3 align="center">Discord Platformu İle Uğraşan Bir Bot Geliştiricisiyim</h3>
 
