@@ -1,6 +1,6 @@
 <h1 align="center">Selam 👋, Ben Trojen</h1>
 <h2 align="center">Gerçek Adım, Hakan</h2>
-<h3 align="center">Discord Platformu İle Uğraşan Bir Javascript Bot Geliştiricisiyim</h3>
+<h3 align="center">Discord Platformu İle Uğraşan Bir Bot Geliştiricisiyim</h3>
 
 - 🔭 Üzerinde Çalıştığım Proje [West Bots](https://discord.gg/g6jEG6G9Ta)
 
